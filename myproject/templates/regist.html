@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>>新規登録</h1>
+<form method="POST">
+    <table border="1">
+        <tr>
+            <th>タイトル</th>
+            <th>メモ</th>
+            <th>ユーザー名</th>
+        </tr>
+        <tr>
+            <td>
+                <input type="text" name="title">
+            </td>
+            <td>
+                <input type="text" name="body">
+            </td>
+            <td>
+                <input type="text" name="create_user">
+            </td>
+        </tr>  
+    </table>   
+    <input type="submit" value="新規登録">
+</form>
+<a href="/" role="botton">一覧に戻る</a>
+{% endblock %}
