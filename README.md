@@ -26,4 +26,4 @@
 
 
 # AWS構成図
-![AWSportfolio5 drawio](https://github.com/user-attachments/assets/fc09621e-d6e4-482b-a811-83bab344a29b)
+![AWSportfolio drawio2](https://github.com/user-attachments/assets/74a8383e-9bf2-4787-9965-b38469a8e183)
