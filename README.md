@@ -9,7 +9,6 @@
  - vpc
  - EC2
  - ALB
- - RDS
  - Route53
  - ACM
  - python 3.11.9
