@@ -5,7 +5,7 @@
 <br>
 
 # 使用技術　　
--AWS
+- AWS
  - vpc
  - EC2
  - ALB
